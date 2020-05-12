@@ -1,0 +1,14 @@
+fun main() {
+    // If Expression
+    // Kondisi
+    // 
+    val trafficLights = "Kuning"
+    
+    if (trafficLights == "Red") {
+        println("Berhenti, Stop!")
+    } else if (trafficLights == "Green") {
+        println("Lanjut, Go!")
+    } else {
+        println("Slowly!")
+    }
+}

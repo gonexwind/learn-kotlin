@@ -1,0 +1,28 @@
+// CONTROL FLOW
+// CARA KITA IYA KITA
+// UNTUK MENGONTROL ALUR DARI PROGRAM 
+// BERDASARKAN KONDISI SAAT PROGRAM BERJALAN
+// 
+// ENUMERATION
+// WHEN EXPRESSION
+// EXPRESSION & STATEMENT
+// WHILE DAN DO WHILE
+// RANGE DAN FOR LOOP
+// BREAK DAN CONTINUE LABELS
+// 
+
+// ENUMERATION
+// FITUR MENYIMPAN OBJEK MENJADI TIPE DATA KONSTAN
+
+fun main() {
+    val colorRed = Color.RED
+    val colorGreen = Color.GREEN
+    val colorBlue = Color.BLUE
+    print(colorRed)
+}
+
+enum class Color(val value: Int) {
+    RED(0xFF0000),
+    GREEN(0x00FF00),
+    BLUE(0x0000FF)
+}
