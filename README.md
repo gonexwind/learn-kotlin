@@ -4,6 +4,6 @@
 ![PLAYLIST](ss/playlist.png)
 
 ## Link YouTube:
-- [Youtube Channel](https://www.youtube.com/https://www.youtube.com/channel/UCKv1DvnWiOXl1GtCFEZKr1Q)
+- [Youtube Channel](https://www.youtube.com/playlist?list=PLbpNkNqWUMH9nGfTiRBDNhlszGIk4VG6Q)
 
 ### Sankyu! 
